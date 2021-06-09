@@ -36,6 +36,9 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
         }
         response.send("Reindex did not work");
     }));
+    app.post("test", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
+        res.status(200).send("Test");
+    }));
     app.listen(parseInt(process.env.PORT), () => {
         console.log(`server started on localhost:${process.env.PORT}`);
     });

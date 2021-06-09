@@ -33,6 +33,10 @@ const main = async () => {
     response.send("Reindex did not work"); // echo the result back
   });
 
+  app.post("test", async (req, res) => {
+    res.status(200).send("Test");
+  });
+
   app.listen(parseInt(process.env.PORT as string), () => {
     console.log(`server started on localhost:${process.env.PORT}`);
   });
