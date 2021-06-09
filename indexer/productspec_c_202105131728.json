@@ -1,0 +1,31 @@
+{
+"productspec__c": [
+	{
+		"name" : "Width",
+		"lastmodifieddate" : "2021-04-30T04:17:48Z",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-04-30T04:17:48Z",
+		"value__c" : "54",
+		"product__c" : null,
+		"createddate" : "2021-04-30T04:17:48Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a015e000003rEFlAAM",
+		"id" : 1,
+		"_hc_lastop" : null,
+		"_hc_err" : null
+	},
+	{
+		"name" : "Height",
+		"lastmodifieddate" : "2021-04-30T04:17:55Z",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-04-30T04:17:55Z",
+		"value__c" : "30",
+		"product__c" : null,
+		"createddate" : "2021-04-30T04:17:55Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a015e000003rEFmAAM",
+		"id" : 2,
+		"_hc_lastop" : null,
+		"_hc_err" : null
+	}
+]}

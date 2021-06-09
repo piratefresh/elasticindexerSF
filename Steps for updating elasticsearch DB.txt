@@ -1,0 +1,20 @@
+# take heroku pg snapshot and download
+heroku pg:backups:capture
+heroku pg:backups:download
+
+
+docker exec -i -t 20451813889e /bin/bash
+
+pg_restore --verbose --clean --no-acl --no-owner -h localhost:5435 -U postgres -d postgres latest1.dump
+
+bash path :C/logstash
+
+docker-compose exec -T esDatabase pg_restore --verbose --clean --no-acl --no-owner -U postgres -d postgres < latest1.dump
+
+./bin/logstash -f ./config/logstash-postgres.conf
+
+
+elasticdump \
+--bulk=true \
+--input="./products.json" \
+--output=a5edd10bccb8401ebb264127731e7006.us-west1.gcp.cloud.es.io/products

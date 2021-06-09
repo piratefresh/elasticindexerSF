@@ -1,0 +1,291 @@
+[
+  {
+    "id": 2,
+    "tags__c": "deep fryer",
+    "sfid": "01t5e0000001RXMAA2",
+    "name": "Avantco FF300 Natural Gas 40 lb. Stainless Steel Floor Fryer",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0685e000000gMmy&operationContext=CHATTER&contentId=05T5e000000nTE5",
+    "description": "This Avantco FF300 natural gas 40 lb. floor fryer has all the features your kitchen needs to prepare perfectly fried foods!\n\nWith enough power to fry a variety of popular appetizers and entrees like french fries, onion rings, and hot wings, this fryer features a durable stainless steel exterior and fry tank to stand up to the daily demands of your busy kitchen. Its 40 lb. capacity makes this unit a great choice for light-duty use in restaurants, concession stands, or pizzerias.",
+    "pricebookentries": [
+      {
+        "id": 6,
+        "unitprice": 729
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Restaurant Equipment",
+        "parentCategory": [
+          {
+            "name": "Cooking Equipment"
+          },
+          {
+            "name": "Deep Fryers"
+          },
+          {
+            "name": "Grills"
+          }
+        ]
+      }
+    },
+    "productcode": "177FF300N",
+    "productattributes__cs": []
+  },
+  {
+    "id": 3,
+    "tags__c": "beverage, cocktail syrup, mixers",
+    "sfid": "01t5e0000001RXRAA2",
+    "name": "Monin 1 Liter Premium Vanilla Flavoring Syrup",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMn3&operationContext=CHATTER&contentId=05T5e000000nTEA",
+    "description": "Bring distinct, original flavor to your beverages with this Monin 1 liter premium vanilla flavoring syrup!\n\nMade with premium, real Madagascar vanilla, pure cane sugar, and no artificial ingredients, this clean label syrup delivers a smooth, custard-like vanilla flavor with a sweet vanilla extract aroma. It provides a quick and easy way to add authentic flavor to your mixed or blended drinks without overpowering them or being too sweet. Use it to enhance your lattes, mochas, dessert cocktails, shakes, smoothies, and sodas, or to create delicious dessert sauces, icings, and flavored whipped cream! Packaged in a shatterproof bottle, it boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.",
+    "pricebookentries": [
+      {
+        "id": 4,
+        "unitprice": 7.5
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": null
+    },
+    "productcode": "544SYPFR045F",
+    "productattributes__cs": []
+  },
+  {
+    "id": 5,
+    "tags__c": "grill, outdoor grill",
+    "sfid": "01t5e0000001RXbAAM",
+    "name": "Backyard Pro C3H860DEL Deluxe 60\" Stainless Steel Liquid Propane Outdoor Grill with Roll Dome and Vinyl Cover",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMmu&operationContext=CHATTER&contentId=05T5e000000nTEK",
+    "description": "Take your culinary creations to a whole new level with the Backyard Pro C3H860DEL 60\" stainless steel gas grill.\n\nWhen the weather is warm and your patrons are hungry, nothing is more satisfying than getting outside and grilling up your signature meats, kebabs, and vegetables for them to enjoy! Built with integrity in mind, this deluxe stainless steel grill with a roll dome and a cover offers you a durable, heavy-duty grilling solution for country clubs, resorts, hotels, and caterers.",
+    "pricebookentries": [
+      {
+        "id": 2,
+        "unitprice": 2399
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Restaurant Equipment",
+        "parentCategory": [
+          {
+            "name": "Cooking Equipment"
+          },
+          {
+            "name": "Deep Fryers"
+          },
+          {
+            "name": "Grills"
+          }
+        ]
+      }
+    },
+    "productcode": "554C3H860DELLP",
+    "productattributes__cs": [
+      {
+        "value__c": "60 Inches",
+        "name": "Width"
+      },
+      {
+        "value__c": "36 Inches",
+        "name": "Height"
+      },
+      {
+        "value__c": "23 Inches",
+        "name": "Depth"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tags__c": "knives, set",
+    "sfid": "01t5e0000001RXXAA2",
+    "name": "Acopa Edgewood / Edgeworth 8 1/2\" 18/8 Stainless Steel Extra Heavy Weight Dinner Knife - 12/Case",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMnI&operationContext=CHATTER&contentId=05T5e000000nTEZ",
+    "description": "Add an elegant touch to your tabletop setting with this Acopa Edgewood / Edgeworth 8 1/2\" 18/8 stainless steel extra heavy weight dinner knife.\n\nComplete your table setting with this Acopa Edgewood / Edgeworth 8 1/2\" dinner knife. Pair it with the rest of the Edgewood / Edgeworth line to create a coherent and attractive table setting. Your guests are sure to appreciate the sturdy construction of this flatware, and it won't break your budget! Made of stainless steel, it will be a long lasting and attractive addition to your busy dining area. It is great for completing table settings at bistros, cafes, and catered events.",
+    "pricebookentries": [
+      {
+        "id": 1,
+        "unitprice": 11.9
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Flatwares",
+        "parentCategory": [
+          {
+            "name": "Knives"
+          }
+        ]
+      }
+    },
+    "productcode": "267750808",
+    "productattributes__cs": []
+  },
+  {
+    "id": 1,
+    "tags__c": "cocktails, beverage, cup",
+    "sfid": "01t5e0000001RT9AAM",
+    "name": "Barfly M37032 12 oz. Stainless Steel Mint Julep Cup with Beaded Trim",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMlv&operationContext=CHATTER&contentId=05T5e000000nRlj",
+    "description": "Barfly M37032 Details\n\nServe up your popular cocktails and mixed drinks in an elegant style with this Barfly M37032 12 oz. stainless steel julep cup. This cup is designed for serving the perfectly-sized, time-honored mint julep in your bar, pub, or restaurant. It features a solid stainless steel exterior with beaded detailing around the rim and base that accentuates your drink's sophistication. Simply mix whiskey and powdered sugar with muddled mint leaves, add ice, pour it into the cup, and garnish it with a sprig of mint! But your serving options don't end there. Load up this cup with a side of fries for a new twist on a classic appetizer.\n\nIts 12 oz. capacity can accommodate a wide variety of cold beverages. Its wide, footed base keeps it stable during use, as well as during transportation. Additionally, a reinforced, rolled rim enables easy sipping and allows for essential drink garnishes such as lemons and limes, to be neatly added to each cup.\n\nBuilt for those with an unwavering dedication to the art of crafting cocktails, Barfly Mixology Gear products are made to deliver the best appearance, temperature, consistency and proportion in each and every glass. These high-quality tools are made with the finest materials to deliver the best quality cocktails while enhancing the presentation and showmanship patrons everywhere have come to expect from mixologists. Regardless of the type of cocktail that's being created, Barfly Mixology Gear is the top choice of professionals everywhere.",
+    "pricebookentries": [
+      {
+        "id": 5,
+        "unitprice": 9.38
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Tabletop",
+        "parentCategory": [
+          {
+            "name": "Beverageware"
+          },
+          {
+            "name": "Flatwares"
+          },
+          {
+            "name": "Dinnerware"
+          }
+        ]
+      }
+    },
+    "productcode": "470M37032",
+    "productattributes__cs": []
+  },
+  {
+    "id": 4,
+    "tags__c": "container, plastic, lid",
+    "sfid": "01t5e0000001RXWAA2",
+    "name": "Carlisle 030203 2.7 Qt. Black Classic Crock with Lid",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMn8&operationContext=CHATTER&contentId=05T5e000000nTEF",
+    "description": "Carlisle 030203 Details\n\nThe Carlisle 030203 black Classic Crock is perfect for holding chopped vegetables, fruit, croutons, dressings, and more! This black, 2.7 qt. crock is made of SAN plastic, making it a great choice for both hot and cold food thanks to its impressive ability to withstand temperatures from 0-180 degrees Fahrenheit. It features a thick-walled, heavy-weight design for added durability and has excellent chemical resistance to acidic foods and dressings. The bold black finish matches just about any setting, and it's the perfect way to add a modern edge to the food bar at your restaurant, convenience store, or deli!\n\nThis Carlisle 2.7 qt. crock is also great for your back-of-the-house storage needs! Whether you're using it to hold prepped ingredients for the next day at your restaurant or you just need some extra salad bar items ready as a backup, this Classic Crock is the perfect solution. It's extremely durable, and comes with a handy snap-on lid to help seal in freshness!\n\nOverall Dimensions:\nTop Diameter: 6 1/2\"\nBottom Diameter: 6 3/16\"\nHeight: 6 3/4\"\nCapacity: 2.70 qt.",
+    "pricebookentries": [
+      {
+        "id": 3,
+        "unitprice": 7.5
+      }
+    ],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Smallwares",
+        "parentCategory": [
+          {
+            "name": "Food Storage"
+          }
+        ]
+      }
+    },
+    "productcode": "271N0302BK",
+    "productattributes__cs": []
+  },
+  {
+    "id": 7,
+    "tags__c": "chair, brown, wooden",
+    "sfid": "01t5e0000001RXlAAM",
+    "name": "Lancaster Table & Seating Distressed Copper Frame Ladder Back Cafe Chair with Dark Brown Padded Seat",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Png&versionId=0685e000000gMou&operationContext=CHATTER&contentId=05T5e000000nTHO",
+    "description": "Seat your guests in comfort and style with this Lancaster Table & Seating distressed copper frame ladder back cafe chair with dark brown padded seat! This chair's distressed copper finish gives you an elegant, upscale look that matches almost any decor, while the sturdy frame provides long-lasting durability. Plus, its eye-catching ladder back design is also contoured for a customer's back, which provides unmatched comfort while maintaining a distinct look for your bar. It is the perfect height for sitting at tables in your cafe or dining room.\n\nThis chair's 2 1/2\" vinyl padded seat ensures comfort for your patrons while they enjoy one of your signature drinks or meals. In addition, four legs are connected with a support for additional stability and capped with plastic glides to protect your floors from scratches and scuff marks. For additional user convenience, this chair boasts a 300 lb. weight capacity and gives the chair a sturdy, stable foundation. Plus, the seat comes detached and assembly is required. The reliable design ensures you'll be using this chair in your cafe or restaurant for years to come!\n\nOverall Dimensions:\nWidth: 18 1/2\"\nDepth: 17\"\nHeight: 32\"\nCapacity: 300 lb.\n\nSeat Dimensions:\nSeat Width: 16 3/4\"\nSeat Depth: 16 3/4\"\nCushion Thickness: 2 1/2\"",
+    "pricebookentries": [
+      {
+        "id": 7,
+        "unitprice": 53.49
+      }
+    ],
+    "metadata__cs": [
+      {
+        "id": 3,
+        "name": "vatlayer.description",
+        "value__c": "standard"
+      },
+      {
+        "id": 4,
+        "name": "vatlayer.code",
+        "value__c": "standard"
+      }
+    ],
+    "category": {
+      "category__c": {
+        "name": "Seatings",
+        "parentCategory": [
+          {
+            "name": "Furniture"
+          }
+        ]
+      }
+    },
+    "productcode": "164CLDRCPDDB",
+    "productattributes__cs": [
+      {
+        "value__c": "Copper",
+        "name": "Finish"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tags__c": "chinese, platter, bowl",
+    "sfid": "01t5e0000001RXgAAM",
+    "name": "Acopa 4 oz. Ivory (American White) Stoneware Fruit Dish with Blue Bands - 36/Case",
+    "product_image__c": "https://magnustestcom-dev-ed--c.documentforce.com/sfc/servlet.shepherd/version/renditionDownload?rendition=ORIGINAL_Jpg&versionId=0685e000000gMoQ&operationContext=CHATTER&contentId=05T5e000000nTGL",
+    "description": "Details\n\nOffer up dinner service with a hint of color using this Acopa 4 oz. ivory (American white) stoneware fruit dish with blue bands. Great for serving small sides of fruit or specialty salads, this piece is made of durable stoneware to reduce the amount of chipping and breaking in your diner or casual restaurant. The ivory color gives it a timeless touch, while the blue bands bring a touch of warmth and whimsy to the table. This bowl is oven safe up to 350 degrees Fahrenheit, making it perfect for warming purposes. Pair it with additional matching Acopa blue band stoneware pieces (sold separately) for a look that can't be beat.\n\nAn ever-expanding brand, Acopa is known for its high-quality items and exceptional value. From trendy dinnerware and timeless flatware to long-lasting glassware and stylish catering and beverage service supplies, Acopa is your destination for any tabletop and front of house need. Created with the consumer in mind, Acopa has the perfect solution for a variety of food service and hospitality establishments.\n\nOverall Dimensions:\nTop Diameter: 4 1/4\"\nBottom Diameter: 2\"\nHeight: 1\"\nCapacity: 4 oz.",
+    "pricebookentries": [
+      {
+        "id": 8,
+        "unitprice": 21.52
+      }
+    ],
+    "metadata__cs": [
+      {
+        "id": 1,
+        "name": "vatlayer.code",
+        "value__c": "standard"
+      },
+      {
+        "id": 2,
+        "name": "vatlayer.description",
+        "value__c": "standard"
+      }
+    ],
+    "category": {
+      "category__c": {
+        "name": "Dinnerware",
+        "parentCategory": [
+          {
+            "name": "Bowls"
+          }
+        ]
+      }
+    },
+    "productcode": "303BBF4",
+    "productattributes__cs": []
+  },
+  {
+    "id": 9,
+    "tags__c": "chicken bag, plastic bag, disposables",
+    "sfid": "01t5e0000001V39AAE",
+    "name": "4 Piece Small \"Fresh Flavor\" Fried Chicken / Hot Food Bag - 250/Case",
+    "product_image__c": "https://magnustestcom-dev-ed.my.salesforce.com/sfc/p/5e0000011W0F/a/5e000000blgP/kHR6aX9.EICxyT4qTEajV3GWbmquDgn54geZYwBa.hI",
+    "description": "This 4 piece small \"Fresh Flavor\" fried chicken / hot food bag is an excellent addition to any convenience store, grocery store, food truck, or restaurant! Use it for hot and fresh wings, fried chicken, and ribs. It's easy to load your hot foods into the bag from the top, and the resealable zipper closure helps retain moisture, texture, and freshness. There's no need to worry about your hot foods fogging up the bag due to the bag's specially-designed anti-fog film.\n\nMade of sturdy plastic, this bag is grease- and leak-resistant and allows for proper ventilation of hot foods through multiple venting holes, allowing steam to escape and preserving crispiness. It's even safe for use under a heat lamp and microwavable for easy reheating!\n\nThe bag's built-in handle is perfect for grab-and-go service. The clear window allows for product visibility, and the \"Fresh Flavor\" print design adds a colorful, contemporary flair. When used with a wire rack, the bag's convenient header lets you easily load a bundle of bags onto the rack. Dependable for everyday use, this resealable bag makes it easy to serve your customers fresh-from-the-oven foods!\n\nOverall Dimensions:\nWidth: 9\"\nGusset: 8\"\nHeight: 5\"",
+    "pricebookentries": [],
+    "metadata__cs": [],
+    "category": {
+      "category__c": {
+        "name": "Disposables",
+        "parentCategory": [
+          {
+            "name": "Disposable Plastic"
+          }
+        ]
+      }
+    },
+    "productcode": "433262078881",
+    "productattributes__cs": []
+  }
+]

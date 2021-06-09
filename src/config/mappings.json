@@ -1,0 +1,143 @@
+{
+  "mappings": {
+    "properties": {
+      "sfid": {
+        "type": "text"
+      },
+      "name": {
+        "type": "text"
+      },
+      "lastmodifieddate": {
+        "type": "date"
+      },
+      "category": {
+        "properties": {
+          "name": {
+            "type": "text",
+            "analyzer": "whitespace"
+          },
+          "path": {
+            "type": "text",
+            "analyzer": "breadcrumb"
+          },
+          "parentCategories": {
+            "type": "text",
+            "analyzer": "whitespace"
+          }
+        }
+      },
+      "createddate": {
+        "type": "date"
+      },
+      "description": {
+        "type": "text",
+        "analyzer": "whitespace"
+      },
+      "metadata": {
+        "properties": {
+          "id": {
+            "type": "long"
+          },
+          "name": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "value__c": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          }
+        }
+      },
+      "pricebookentries": {
+        "properties": {
+          "id": {
+            "type": "long"
+          },
+          "unitprice": {
+            "type": "scaled_float",
+            "scaling_factor": 100
+          }
+        }
+      },
+      "productimage": {
+        "type": "text"
+      },
+      "productcode": {
+        "type": "keyword"
+      },
+      "tags": {
+        "type": "keyword",
+        "analyzer": "whitespace"
+      },
+      "productspec": {
+        "properties": {
+          "name": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "value__c": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          }
+        }
+      },
+      "productvariety": {
+        "properties": {
+          "name": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          }
+        }
+      },
+      "producttag__cs": {
+        "properties": {
+          "name": {
+            "type": "keyword"
+          }
+        }
+      }
+    }
+  },
+  "settings": {
+    "analysis": {
+      "tokenizer": {
+        "breadcrumb_path_hierarchy": {
+          "type": "path_hierarchy",
+          "delimiter": ">"
+        }
+      },
+      "analyzer": {
+        "breadcrumb": {
+          "type": "custom",
+          "tokenizer": "breadcrumb_path_hierarchy",
+          "filter": ["trim"]
+        }
+      }
+    }
+  }
+}

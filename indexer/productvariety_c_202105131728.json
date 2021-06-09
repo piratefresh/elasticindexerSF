@@ -1,0 +1,16 @@
+{
+"productvariety__c": [
+	{
+		"createddate" : "2021-05-01T07:00:20Z",
+		"isdeleted" : false,
+		"name" : "Blue",
+		"systemmodstamp" : "2021-05-01T07:00:20Z",
+		"sku__c" : "164CLDRCPDDC",
+		"product__c" : "01t5e0000001RXlAAM",
+		"price__c" : 25.52,
+		"sfid" : "a055e0000003drUAAQ",
+		"id" : 1,
+		"_hc_lastop" : "SYNCED",
+		"_hc_err" : null
+	}
+]}

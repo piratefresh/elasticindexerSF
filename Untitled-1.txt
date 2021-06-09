@@ -1,0 +1,3 @@
+C:\logstash/bin/logstash-plugin
+
+bin/logstash-plugin install logstash-input-jdbc

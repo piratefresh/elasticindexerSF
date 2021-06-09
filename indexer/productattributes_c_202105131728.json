@@ -1,0 +1,63 @@
+{
+"productattributes__c": [
+	{
+		"name" : "Width",
+		"lastmodifieddate" : "2021-05-01T06:01:29Z",
+		"ownerid" : "0055e000000TU3uAAG",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-05-01T06:01:29Z",
+		"value__c" : "60 Inches",
+		"product__c" : "01t5e0000001RXbAAM",
+		"createddate" : "2021-05-01T06:01:29Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a005e0000010UJNAA2",
+		"id" : 3,
+		"_hc_lastop" : "SYNCED",
+		"_hc_err" : null
+	},
+	{
+		"name" : "Height",
+		"lastmodifieddate" : "2021-05-01T06:02:24Z",
+		"ownerid" : "0055e000000TU3uAAG",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-05-01T06:02:24Z",
+		"value__c" : "36 Inches",
+		"product__c" : "01t5e0000001RXbAAM",
+		"createddate" : "2021-05-01T06:02:24Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a005e0000010UJSAA2",
+		"id" : 4,
+		"_hc_lastop" : "SYNCED",
+		"_hc_err" : null
+	},
+	{
+		"name" : "Depth",
+		"lastmodifieddate" : "2021-05-01T06:02:35Z",
+		"ownerid" : "0055e000000TU3uAAG",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-05-01T06:02:35Z",
+		"value__c" : "23 Inches",
+		"product__c" : "01t5e0000001RXbAAM",
+		"createddate" : "2021-05-01T06:02:35Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a005e0000010UJXAA2",
+		"id" : 5,
+		"_hc_lastop" : "SYNCED",
+		"_hc_err" : null
+	},
+	{
+		"name" : "Finish",
+		"lastmodifieddate" : "2021-05-01T06:38:03Z",
+		"ownerid" : "0055e000000TU3uAAG",
+		"isdeleted" : false,
+		"systemmodstamp" : "2021-05-01T06:38:03Z",
+		"value__c" : "Copper",
+		"product__c" : "01t5e0000001RXlAAM",
+		"createddate" : "2021-05-01T06:38:03Z",
+		"createdbyid" : "0055e000000TU3uAAG",
+		"sfid" : "a005e0000010UJrAAM",
+		"id" : 8,
+		"_hc_lastop" : "SYNCED",
+		"_hc_err" : null
+	}
+]}
