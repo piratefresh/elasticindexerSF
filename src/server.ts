@@ -26,11 +26,10 @@ const main = async () => {
     const responseCreateIndex = await createIndex(index);
     if (responseCreateIndex) {
       await createMapping(index);
-      const esResponse = await insertData();
-      console.log("Es response: ", esResponse.body);
-      response.status(200).send({ body: esResponse.body.hits });
     }
-    response.send("Reindex did not work"); // echo the result back
+    const esResponse = await insertData();
+    console.log("Es response: ", esResponse.body);
+    response.status(200).send({ body: esResponse.body.hits });
   });
 
   app.post("test", async (req, res) => {

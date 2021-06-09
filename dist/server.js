@@ -30,11 +30,10 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
         const responseCreateIndex = yield elasticSearch_1.createIndex(index);
         if (responseCreateIndex) {
             yield elasticSearch_1.createMapping(index);
-            const esResponse = yield elasticSearch_1.insertData();
-            console.log("Es response: ", esResponse.body);
-            response.status(200).send({ body: esResponse.body.hits });
         }
-        response.send("Reindex did not work");
+        const esResponse = yield elasticSearch_1.insertData();
+        console.log("Es response: ", esResponse.body);
+        response.status(200).send({ body: esResponse.body.hits });
     }));
     app.post("test", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
         res.status(200).send("Test");
